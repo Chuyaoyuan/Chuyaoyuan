@@ -1,6 +1,6 @@
-### Hi，你们好！！！ 👋
+### Hi，你好！！！ 👋
 
-欢迎来到这里，关于我 [个人页](http://cyy.im)
+欢迎来到这里，关于我 [个人页](http://cyy.im) &  [博客页](http://chuyaoyuan.com)
 
 <!--
 **Chuyaoyuan/Chuyaoyuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
